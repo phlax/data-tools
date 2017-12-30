@@ -1,0 +1,18 @@
+{
+    "extensionName": {
+	"message": "data-tools",
+	"description": "Name of the extension."
+    },
+    "extensionDescription": {
+	"message": "Web-Erweiterung für die Lokalisierung",
+	"description": "Description of the extension."
+    },
+    "preferences": {
+	"message": "Präferenzen",
+	"description": "Link to preferences UI."
+    },
+    "notifications": {
+	"message": "Benachrichtigungen",
+	"description": "Link to notifications UI."
+    }
+}

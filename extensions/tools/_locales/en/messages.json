@@ -1,0 +1,10 @@
+{
+    "extensionName": {
+	"message": "data-tools",
+	"description": "Name of the extension."
+    },
+    "extensionDescription": {
+	"message": "Web extension for data wrangling",
+	"description": "Description of the extension."
+    }
+}
