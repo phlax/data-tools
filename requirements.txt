@@ -1,0 +1,7 @@
+-e git+https://github.com/phlax/makeyfile#egg=makeyfile
+flake8
+pytest-mock
+requests_mock
+coverage
+pytest-coverage
+codecov
